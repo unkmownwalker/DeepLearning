@@ -1,6 +1,6 @@
 # DeepLearning
-classic DL networks, using Pytorch
+some projects using classical network with Pytorch, including:
 - MLP
-- CNN
+- Alexnet
 - Resnet
-- Transformer
+- Classical Transformer
